@@ -1,1 +1,1 @@
-# mathquiz
+# mathquiz multiplication quiz using JS
